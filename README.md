@@ -1,5 +1,8 @@
 # SCSU Hackathon Feb. 2024 Challenge 4
 
+## Team: *insert team name*
+ - *Member names here*
+
 ## Challenge Description
 *Revealed during hackathon kickoff.*
 
@@ -13,9 +16,6 @@
 ## Test Data
 This challenge uses a GLTF model for testing.
 
-## Judging Feedback
-*Provided after hackathon judging is completed.*
-
 ## How to Run
 *Teams fill in this section with instructions on how to run the application.*
 
@@ -24,3 +24,6 @@ This challenge uses a GLTF model for testing.
  - [ ] Updated README with instructions for running the application
  - [ ] Created presentation showcasing our work
  - [ ] Committed the presentation to the repository root folder in PDF format
+
+## Judging Feedback
+*Provided after hackathon judging is completed.*
