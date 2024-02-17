@@ -1,7 +1,7 @@
 
 # IDS & SCSU Hackathon Feb. 2024 Challenge 4 - Immersive Report
 
-## Team: *insert team name*
+## Team: GeoViz
  - *Member names here*
 
 ## Challenge Description
