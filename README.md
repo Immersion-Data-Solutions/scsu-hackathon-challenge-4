@@ -2,7 +2,7 @@
 # IDS & SCSU Hackathon Feb. 2024 Challenge 4 - Immersive Report
 
 ## Team: *insert team name*
- - *Member names here*
+ - GeoViz
 
 ## Challenge Description
 IDS creates PDF reports for clients all the time, but those reports lose one of the biggest things we bring to the table, geospatial visualization of data. We’d like to combine these two things into an immersive report. This can be thought of as a guided tour that will walk users through the data in a report or query in an immersive map view.
